@@ -1,0 +1,12 @@
+{
+  "name": "mricky-belajar-nodejs-library",
+  "version": "1.0.0",
+  "description": "Belajar dan Publish Library NPM",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Ricky",
+  "license": "ISC"
+}
